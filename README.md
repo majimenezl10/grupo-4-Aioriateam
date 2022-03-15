@@ -27,6 +27,9 @@
 -   Para consumirlo, yo lo corto en rodajas finas con un cuchillo justo antes de comerlo.
 -   Está muy rico con mostaza o en un sandwich.
 
+![image](https://user-images.githubusercontent.com/101118404/158390770-3447369f-afa5-42e6-b806-d140ccf6d842.png)
+
+
 #### Fuentes
 
 -   [Solomillo de pavo al vapor en salsa de mostaza antigua](http://lasrecetasdefranciscoypablo.blogspot.com/2014/05/solomillo-de-pavo-al-vapor-en-salsa-de.html)
