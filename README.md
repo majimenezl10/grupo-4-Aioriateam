@@ -48,5 +48,5 @@
  "Listo a Deleitarse con su sabor")
  
 ### VIDEO DE REFERENCIA
-![Alt text](https://img.youtube.com/vi/VQ5vvY1vA-o/0.jpg
+![Alt text](https://img.youtube.com/vi/VQ5vvY1vA-o/0.jpg (https://www.youtube.com/watch?v=VQ5vvY1vA-o)
  "VIDEO COCINANDO")
