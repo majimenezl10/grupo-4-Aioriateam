@@ -42,3 +42,13 @@
 -   <a name="footnote1">1</a>: Si la pechuga de pavo es muy grande (500gr o más), dejar en la salmuera 20 minutos.
 -   <a name="footnote2">2</a>: Si vas a preparar varias pechugas envuélvelas por separado.
 -   <a name="footnote3">3</a>: Si la pechuga de pavo es muy grande (500gr o más), cocinar durante 30 minutos.
+
+### IMAGEN YA COCINADO
+![Alt text](https://i.ytimg.com/vi/VQ5vvY1vA-o/maxresdefault.jpg
+ "Listo a Deleitarse con su sabor")
+ 
+
+
+ 
+
+ 
