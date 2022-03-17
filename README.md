@@ -47,9 +47,6 @@
 ![Alt text](https://i.ytimg.com/vi/VQ5vvY1vA-o/maxresdefault.jpg
  "Listo a Deleitarse con su sabor")
  
-### RECETA MAESTRA DEL CHEF. VIDEO DE REFERENCIA
-![Alt text](https://youtu.be/VQ5vvY1vA-o "Video de referencia")
-
- 
-
- 
+### VIDEO DE REFERENCIA
+![Alt text](https://img.youtube.com/vi/VQ5vvY1vA-o/0.jp
+ "VIDEO COCINANDO")
